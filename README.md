@@ -5,3 +5,5 @@
 # Modificando mais uma vez;
 
 # Codando git push
+
+# Comando git pull
